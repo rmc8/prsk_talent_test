@@ -1,0 +1,118 @@
+bonus:
+  area_item:
+    character:
+      初音ミク:
+        - 0.06
+        - 0.06
+        - 0.06
+        - 0.06
+        - 0.06
+      鏡音リン: 0.20
+      鏡音レン: 0.20
+      巡音ルカ: 0.20
+      MEIKO: 0.30
+      KAITO: 0.20
+      星乃一歌: 0.20
+      天馬咲希: 0.20
+      望月穂波: 0.20
+      日野森志歩: 0.20
+      花里みのり: 0.20
+      桐谷遥: 0.20
+      桃井愛莉: 0.20
+      日野森雫: 0.30
+      小豆沢こはね: 0.30
+      白石杏: 0.30
+      東雲彰人: 0.20
+      青柳冬弥: 0.30
+      天馬司: 0.20
+      鳳えむ: 0.20
+      草薙寧々: 0.20
+      神代類: 0.20
+      宵崎奏: 0.20
+      朝比奈まふゆ: 0.20
+      東雲絵名: 0.20
+      暁山瑞希: 0.20
+    unit:
+      leo_need:
+        - 0.050
+        - 0.050
+      more_jump:
+        - 0.050
+        - 0.050
+      vivibas:
+        - 0.075
+        - 0.050
+      wonderlands_showtime:
+        - 0.050
+        - 0.050
+      25_night_code:
+        - 0.050
+        - 0.050
+      virtual_singer:
+        - 0.010
+        - 0.010
+        - 0.010
+        - 0.010
+        - 0.010
+    type:
+      cool:
+        - 0.050
+        - 0.050
+      cute:
+        - 0.050
+        - 0.050
+      pure:
+        - 0.050
+        - 0.075
+      happy:
+        - 0.050
+        - 0.050
+      mysterious:
+        - 0.050
+        - 0.050
+  character_rank:
+    virtual_singer:
+      初音ミク: 47
+      鏡音リン: 33
+      鏡音レン: 38
+      巡音ルカ: 33
+      MEIKO: 41
+      KAITO: 38
+    leo_need:
+      星乃一歌: 31
+      天馬咲希: 38
+      望月穂波: 32
+      日野森志歩: 31
+    more_jump:
+      花里みのり: 38
+      桐谷遥: 43
+      桃井愛莉: 38
+      日野森雫: 38
+    vivibas:
+      小豆沢こはね: 47
+      白石杏: 50.5
+      東雲彰人: 40
+      青柳冬弥: 42
+    wonderlands_showtime:
+      天馬司: 32
+      鳳えむ: 38
+      草薙寧々: 34
+      神代類: 39
+    25_night_code:
+      宵崎奏: 32
+      朝比奈まふゆ: 32
+      東雲絵名: 33
+      暁山瑞希: 32
+  title_bonus: 260
+translate:
+  virtual_singer: "VIRTUAL SINGER"
+  leo_need: Leo/need
+  more_jump: "MORE MORE JUMP!"
+  vivibas: "Vivid BAD SQUAD"
+  wonderlands_showtime: "ワンダーランズ×ショウタイム"
+  25_night_code: 25時、ナイトコードで。
+  cool: クール
+  cute: キュート
+  pure: ピュア
+  happy: ハッピー
+  mysterious: ミステリアス
