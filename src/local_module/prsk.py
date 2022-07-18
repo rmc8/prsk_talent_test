@@ -139,13 +139,6 @@ class TALENT_CALC:
         print()
 
     def calc(self):
-        # init
-        self.talent_bonus_dict: dict = {
-            "character_bonus": 0,
-            "unit_bonus": 0,
-            "type_bonus": 0,
-        }
-
         # Check to see if units and types match
         self.type_matched = self._matched_switcher("card_type")
         self.unit_matched = self._matched_switcher("unit")
